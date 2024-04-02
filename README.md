@@ -7,6 +7,7 @@
 ```sh
 git clone https://github.com/kits-hub/quant-tk
 cd quant-tk && make
+```
 
 #### Usage
 
